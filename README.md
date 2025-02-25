@@ -1,1 +1,3 @@
 # gitrebase
+
+Add new context
